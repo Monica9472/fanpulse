@@ -1,11 +1,11 @@
 {
-  "name": "FanPulse",
+  "name": "FanPulse ⚡",
   "short_name": "FanPulse",
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
-  "description": "FanPulse ⚡ Your hub for football, basketball, and more.",
+  "description": "FanPulse ⚡ Your hub for everything football (soccer).",
   "icons": [
     {
       "src": "/logo-192.png",
@@ -16,6 +16,12 @@
       "src": "/logo-512.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "/logo-512.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
